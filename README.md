@@ -1,0 +1,1 @@
+# dockerhub-to-azure-container-registry-image-sync
